@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanshry&layout=compact)](https://github.com/ethanshry/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Shry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethanshry/)](https://www.linkedin.com/in/ethanshry/) [![Gmail Badge](https://img.shields.io/badge/-ehshry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehshry@gmail.com)](mailto:ehshry@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Shry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethanshry/)](https://www.linkedin.com/in/ethanshry/) [![Gmail Badge](https://img.shields.io/badge/-ethan.shry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehshry@gmail.com)](mailto:ehshry@gmail.com)
 
 Computer Science BS/MS Student working with a passion for full-stack web development, API design, and concurrent programming. Currently working on Kraken, a LAN-based distrubted application deployment environment written in Rust.
 
