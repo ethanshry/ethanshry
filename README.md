@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ethan_Shry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethanshry/)](https://www.linkedin.com/in/ethanshry/) [![Gmail Badge](https://img.shields.io/badge/-ethan.shry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehshry@gmail.com)](mailto:ehshry@gmail.com)
 
-Fullstack engineer with a preference for the backend. Tech lead at a stealth startup. Primarily a JS developer who tinkers with other languages
+Fullstack engineer with a preference for the backend. Primarily a JS developer who tinkers with other languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
